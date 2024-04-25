@@ -8,5 +8,5 @@ Link of LeetCode Top Interview 150: <https://leetcode.com/studyplan/top-intervie
 |Problems|Difficulty|
 |--------|---------:|
 |   Array / String  |
-|[88. Merge Sorted Array]()| Easy|
+|[88. Merge Sorted Array](https://github.com/fangha1216/LeetCode_Top_Interview_150/blob/main/array_string/88-Merge%20Sorted%20Array.md)| Easy|
 |TODO | |
