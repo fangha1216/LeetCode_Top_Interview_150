@@ -1,9 +1,10 @@
 # Leetcode Top Interview 150
-This repository contains solutions to Leetcode Top Interview 150 questions.
+Leetcode Top Interview 150刷題紀錄  
+This repository contains my solutions to Leetcode Top Interview 150 questions.
 
 Link of LeetCode Top Interview 150: <https://leetcode.com/studyplan/top-interview-150/>
 
-## Link of my solutions 
+## Link of solutions
 |Problems|Difficulty|
 |--------|---------:|
 |   Array / String  |
